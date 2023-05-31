@@ -1,0 +1,46 @@
+{
+
+   "details": [
+       {
+			"Experiment": "To determine the angle of repose and the effect of lubricants/glidants on flow property of powder",     
+			"Lab": "Physical Pharmaceutics",               
+			"Discipline": "Pharmacy",				 
+			"Technology": "HTML CSS Javascript"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Rupali Sharma",         
+      "Institute": "Meerut Institute of Engineering and Technology",         
+      "InstituteAcronym": "MIET"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Avnika Agarwal",             
+      "Institute": "Meerut Institute of Engineering and Technology",               
+			"InstituteAcronym": "MIET"         
+       },
+
+       {       
+			"Contributer": "Samarth Anand",              
+      "Institute": "Meerut Institute of Engineering and Technology",               
+			"InstituteAcronym": "MIET"         
+       },
+
+       {       
+			"Contributer": "Nikunj Jain",             
+      "Institute": "Meerut Institute of Engineering and Technology",               
+			"InstituteAcronym": "MIET"         
+       },
+
+       {       
+			"Contributer": "Akash Chaudhary",              
+      "Institute": "Meerut Institute of Engineering and Technology",               
+			"InstituteAcronym": "MIET"         
+       }
+   ]
+
+}
